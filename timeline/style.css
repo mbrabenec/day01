@@ -1,0 +1,16 @@
+
+* {
+    align-content: center;
+}
+
+.one {
+    background: lightblue;
+}
+
+.two {
+    background: lightgreen;
+}
+
+footer {
+    background: lightpink;
+}
